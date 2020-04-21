@@ -1,2 +1,4 @@
 # hawgent-dynamic-mathematics-software
 Hawgent dynamic mathematics software is a mathematics software from Guangzhou, China that is designed according to the needs of practitioner and academician in the education field.  Hawgent have a lot of simple and dynamic features that can be easily operated according to the teachers’ needs 
+Go to the "Software Center" column of hawgent's official website www.hawgent.com, and enter the corresponding download page for the project of hawgent Dynamic Mathematics Software. Or enter the following address www.hawgent.com/softupdate/index.html, go directly to the download page, click, install-button, and you will directly enter the process of automatic download and installation. 
+The user registration interface is as follows; please enter the new user's registration name and Password. The verification code provided automatically by the mailbox and the system, and then click, Register button to complete the registration process.
